@@ -6,9 +6,9 @@
 
 <div align="center">
   
-  [![GitHub followers](https://img.shields.io/github/followers/Niraj0022?style=social)](https://github.com/Niraj0022)
-  [![GitHub stars](https://img.shields.io/github/stars/Niraj0022?style=social)](https://github.com/Niraj0022)
-  [![Profile views](https://komarev.com/ghpvc/?username=Niraj0022&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/Niraj0022)
+  [![GitHub followers](https://img.shields.io/github/followers/nirajx220?style=social)](https://github.com/nirajx220)
+  [![GitHub stars](https://img.shields.io/github/stars/nirajx220?style=social)](https://github.com/nirajx220)
+  [![Profile views](https://komarev.com/ghpvc/?username=nirajx220&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/nirajx220)
   
 </div>
 
@@ -67,16 +67,16 @@ const niraj = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Niraj0022&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj0022&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nirajx220&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirajx220&layout=compact&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niraj0022&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirajx220&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Niraj0022&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nirajx220&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -84,7 +84,7 @@ const niraj = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Niraj0022&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nirajx220&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -117,8 +117,8 @@ const niraj = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Niraj0022&repo=awesome-project&theme=tokyonight)](https://github.com/Niraj0022/awesome-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Niraj0022&repo=portfolio-website&theme=tokyonight)](https://github.com/Niraj0022/portfolio-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nirajx220&repo=awesome-project&theme=tokyonight)](https://github.com/nirajx220/awesome-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nirajx220&repo=portfolio-website&theme=tokyonight)](https://github.com/nirajx220/portfolio-website)
 
 </div>
 
@@ -153,7 +153,7 @@ const niraj = {
   
   **⭐ Star some repositories if you find them interesting!**
   
-  ![](https://hit.yhype.me/github/profile?user_id=Niraj0022)
+  ![](https://hit.yhype.me/github/profile?user_id=nirajx220)
   
 </div>
 
